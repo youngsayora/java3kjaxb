@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <students>
+        <student mark="4.9" age="18">
+            <lastname>Иванов</lastname>
+        </student>
+        <student mark="3.7" age="19">
+            <lastname>Петров</lastname>
+        </student>
+        <student mark="4.9" age="20">
+            <lastname>Сидоров</lastname>
+        </student>
+        <student mark="5.0" age="19">
+            <lastname>Попов</lastname>
+        </student>
+        <student mark="4.25" age="19">
+            <lastname>Алексеев</lastname>
+        </student>
+        <student mark="3.2" age="20">
+            <lastname>Александров</lastname>
+        </student>
+    </students>
+</group>
